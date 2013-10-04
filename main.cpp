@@ -23,6 +23,8 @@
  *                                                                                 *
  ***********************************************************************************/
 
+#include <GL/glew.h>
+
 #include <QtWidgets/QMessageBox>
 #include <QtWidgets/QWidget>
 
